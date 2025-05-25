@@ -12,7 +12,6 @@ export default function SignupPage() {
           <Image
             src={authAvatar}
             alt="auth avatar"
-            placeholder="blur"
             className="mx-auto w-32 h-32"
           />
         </CardHeader>
